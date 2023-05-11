@@ -27,7 +27,7 @@ To share an article, tap the share icon and choose your preferred sharing method
 If you encounter any issues while using the app, please contact our support team at hr@iphtechnologies.com.
 
 # Contributions
-If you would like to contribute to the development of this app, please visit our GitHub repository at https://github.com/newsapp/ios.
+If you would like to contribute to the development of this app, please visit our GitHub repository at https://github.com/IPH-Technologies-Pvt-Ltd.
 
 # License
 This app is licensed under the MIT License. For more information, please see the LICENSE file in the app's GitHub repository.
