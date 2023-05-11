@@ -9,8 +9,6 @@ Personalized news feed based on user preferences
 Ability to save articles for later reading
 Offline reading mode
 Share articles via social media or email
-# Installation
-To use this app, simply download it from the Apple App Store and install it on your iOS device.
 
 # Usage
 When you first open the app, you will be prompted to select your preferred news sources. You can also choose to skip this step and select your sources later from the settings menu.
