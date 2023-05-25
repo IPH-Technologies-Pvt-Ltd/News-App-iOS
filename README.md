@@ -29,3 +29,7 @@ If you would like to contribute to the development of this app, please visit our
 
 # License
 This app is licensed under the MIT License. For more information, please see the LICENSE file in the app's GitHub repository.
+
+# Screenshot
+
+![Ankur](https://github.com/IPH-Technologies-Pvt-Ltd/News-App-iOS/assets/124572978/873dbd73-cea4-4482-88bc-56c28511188a)
