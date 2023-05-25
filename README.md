@@ -33,4 +33,4 @@ This app is licensed under the MIT License. For more information, please see the
 # Screenshot
 <img src="https://github.com/IPH-Technologies-Pvt-Ltd/News-App-iOS/assets/124572978/873dbd73-cea4-4482-88bc-56c28511188a" 
      width="400" 
-     height="600"/>
+     height="800"/>
